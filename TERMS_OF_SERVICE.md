@@ -58,9 +58,3 @@ The operator may revise these Terms to reflect changes to Warden™, Starlit, or
 For questions about these Terms, contact the Starlit community through https://discord.gg/starlittt.
 
 ---
-
-## Operator review checklist — remove before publication
-
-- Confirm the bot's code and configuration prevent or discourage installation/use outside Starlit, and that no other guild is actually supported.
-- Confirm the exact hosting/database providers and any other integrations used in production.
-- Check these Terms against Starlit's rules and the operator's legal jurisdiction; obtain qualified legal advice if needed.
